@@ -1,6 +1,5 @@
----
-layout: post
-title: Intentions
+
+### Intentions
 ---
 
 I'm hoping to use this site to track what I want to do as well as what I'm doing for a *contining education* benefit for myself.  I've realized as I've grown in my company to be more of a manager and learning Flex, that I'm falling behind on some of the latest that JavaScript has to offer.  
